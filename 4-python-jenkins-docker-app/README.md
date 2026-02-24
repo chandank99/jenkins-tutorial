@@ -9,7 +9,7 @@ This repository contains a **minimal Python application** designed to demonstrat
 This project is ideal for beginners who want to learn:
 
 - How to create a simple Python application
-- How to build and test it using Python's built-in tools..
+- How to build and test it using Python's built-in tools
 - How to containerize it with Docker
 - How to run it with Docker Compose
 - How to push a Docker image to Docker Hub via Jenkins
